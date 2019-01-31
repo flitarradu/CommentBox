@@ -1,0 +1,35 @@
+.zaTextBox {
+    resize: both;
+    width: 30%;
+    height:50px;
+}
+
+button {
+    margin-left: 20px;
+    font-weight: bold;
+    background-color: rgb(82, 75, 67);
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius : 12px;
+}
+
+button:hover {
+    background-color: lightslategray;
+  }
+
+ .zaButton:hover {
+    background-color: #45a049;
+  } 
+  
+.zaButton{
+    background-color: #356abf;
+    color: white;
+    margin-top: 1%;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius : 12px;
+  }
+
